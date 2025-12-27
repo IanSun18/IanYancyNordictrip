@@ -1,0 +1,7 @@
+{
+  "name": "Nordic Aurora Trip 2026",
+  "description": "A comprehensive itinerary planner for a Nordic trip including flight details, accommodation, shopping spots, and expense tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
